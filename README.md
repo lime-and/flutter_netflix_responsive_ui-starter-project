@@ -3,7 +3,8 @@ mainly learned about Frontend design from this project like Preview,Fading App b
 Project is run locally currently as right now i am using Windows and can't deploy to iOS.
 
 
-
+![image](https://github.com/lime-and/flutter_netflix_responsive_ui-starter-project/assets/100839440/7cb0e3b8-7d31-4fbd-a3d8-b92089770129)
+![image](https://github.com/lime-and/flutter_netflix_responsive_ui-starter-project/assets/100839440/1985d68a-4c23-4307-9588-7412a93f42e5)
 
 
 
