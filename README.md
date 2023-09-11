@@ -17,4 +17,4 @@ Project is run locally currently as right now i am using Windows and can't deplo
 日本語版
 Flutterを使ってNetflixのフロントエンドプロジェクト
 このプロジェクトから、主にフロントエンドデザインを学んだ。例えば、レビュー、フェーディング アプリ バー、ナビゲーション バー、プレビュー、ウィジェット、ナビゲーション バー、リアクティブ デザインなど。
-本プロジェクトはロカールで実行された。Windowsを使っているため、XCodeでiphoneにデプロイされていない。
+本プロジェクトはロカールで実行された。Windowsを使っているため、XCodeでiphoneにデプロイされていない。実際にデプロイをした後、バグがあるかどうか分からない。
