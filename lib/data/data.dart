@@ -122,11 +122,11 @@ final List<Content> originals =  [
   Content(name: 'The Umbrella Academy', imageUrl: Assets.umbrellaAcademy,titleImageUrl: '', videoUrl: '', description: '', color: Colors.green),
   Content(name: '13 Reasons Why', imageUrl: Assets.thirteenReasonsWhy,titleImageUrl: '', videoUrl: '', description: '', color: Colors.green),
   Content(name: 'The End of the F***ing World', imageUrl: Assets.teotfw,titleImageUrl: '', videoUrl: '', description: '', color: Colors.green),
-  Content(name: 'Stranger Things', imageUrl: Assets.strangerThings,titleImageUrl: '', videoUrl: '', description: '', color: Colors.green),
-  Content(name: 'The Witcher', imageUrl: Assets.witcher,titleImageUrl: '', videoUrl: '', description: '', color: Colors.green),
-  Content(name: 'The Umbrella Academy', imageUrl: Assets.umbrellaAcademy,titleImageUrl: '', videoUrl: '', description: '', color: Colors.green),
-  Content(name: '13 Reasons Why', imageUrl: Assets.thirteenReasonsWhy,titleImageUrl: '', videoUrl: '', description: '', color: Colors.green),
-  Content(name: 'The End of the F***ing World', imageUrl: Assets.teotfw,titleImageUrl: '', videoUrl: '', description: '', color: Colors.green),
+  Content(name: 'the Crown', imageUrl: Assets.crown,titleImageUrl: '', videoUrl: '', description: '', color: Colors.green),
+  Content(name: 'Kakegurui', imageUrl: Assets.kakegurui,titleImageUrl: '', videoUrl: '', description: '', color: Colors.green),
+  Content(name: 'Carole and Tuesday', imageUrl: Assets.caroleAndTuesday,titleImageUrl: '', videoUrl: '', description: '', color: Colors.green),
+  Content(name: 'Black Mirror', imageUrl: Assets.blackMirror,titleImageUrl: '', videoUrl: '', description: '', color: Colors.green),
+  Content(name: 'Violet Evergarden', imageUrl: Assets.violetEvergarden,titleImageUrl: '', videoUrl: '', description: '', color: Colors.green),
 ];
 
 final List<Content> trending =  [
